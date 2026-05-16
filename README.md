@@ -1,10 +1,10 @@
 # Privacy Policy for Guitar Tuner Go
 
-*Last updated: May 10, 2026*
+*Last updated: May 16, 2026*
 
 This Privacy Policy describes our policies and procedures on the collection, use, and disclosure of your information when you use the **Guitar Tuner Go** application and tells you about your privacy rights and how the law protects you.
 
-We use your Personal data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy.
+We respect your privacy. We do not collect any Personal data to provide the Service. By using the Service, you agree to the terms outlined in this Privacy Policy.
 
 ---
 
@@ -24,28 +24,27 @@ We do not collect any personally identifiable information (such as your name, em
 
 ## 2. Third-Party Services
 
-The application may use third-party services that may collect information used to identify you:
+The application is distributed through Google Play, which may collect basic information used to identify your device for application distribution and updates:
 
-* **Google Play Services:** Used for application distribution and updates.
-* **Google AdMob:** Used to serve advertisements within the application. AdMob may collect and use advertising identifiers and device data to show relevant ads.
+* **Google Play Services**
 
 ---
 
 ## 3. Log Data
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we may collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+We do not collect any Log Data, crash reports, or usage statistics. All app operations happen strictly locally on your device without transmitting technical data to external servers.
 
 ---
 
 ## 4. Security
 
-We value your trust in providing us your information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+We value your trust in using our application. Since we do not collect, store, or transmit any of your personal data or audio recordings over the internet, your information remains secure on your local device.
 
 ---
 
 ## 5. Children’s Privacy
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers.
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. 
 
 ---
 
@@ -59,4 +58,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
 
-* **Developer Contact:** [nikita.mirashnichenka@gmail.com]
+* **Developer Contact:** nikita.mirashnichenka@gmail.com
